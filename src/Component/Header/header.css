@@ -1,0 +1,13 @@
+header {
+    margin: 10px auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
